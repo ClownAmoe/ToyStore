@@ -4,7 +4,7 @@ import { CLASSNAME } from "./classNames";
 export default function Navbar() {
   return (
     <>
-      <ul className="flex justify-around p-8 bg-sky-200 text-2xl items-center fixed w-full">
+      <ul className="flex justify-around p-8 bg-sky-300 text-2xl items-center fixed w-full opacity-200 h-24">
         <li>
           <Image
             src="/logo.png"
