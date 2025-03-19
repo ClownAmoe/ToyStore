@@ -1,5 +1,5 @@
 import Navbar from "@/pages/navbar/navbar";
-import Specials from "@/pages/navbar/specials/specials";
+import Specials from "@/pages/specials/specials";
 import Picture from "@/pages/picture/picture";
 
 export default function Home() {
